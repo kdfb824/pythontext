@@ -1,0 +1,61 @@
+[INFO  - 2016-12-23T18:20:20.643Z] GhostDriver - Main - running on port 51644
+[INFO  - 2016-12-23T18:20:24.168Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-23T18:20:24.168Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.customHeaders:  - {}
+[INFO  - 2016-12-23T18:20:24.168Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-23T18:20:24.168Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 78b33510-c93c-11e6-b49d-097b54259f42
+[INFO  - 2016-12-23T18:25:18.157Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:20:26.251Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/630509422982/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3A630509422982:1102)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:20:26.417Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:20:26.418Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - stack:
+  onload (https://www.amazon.com/630509422982/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3A630509422982:1216)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:20:29.957Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:20:29.957Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/630509422982/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3A630509422982:1101)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:20:29.969Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:20:29.969Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - stack:
+  onload (https://www.amazon.com/630509422982/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3A630509422982:1215)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:21:03.640Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:21:03.641Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/Nerf-B5577-Modulus-Tri-Strike/dp/B01B4NMH48:16417)
+  l (https://www.amazon.com/Nerf-B5577-Modulus-Tri-Strike/dp/B01B4NMH48:264)
+  (anonymous function) (https://www.amazon.com/Nerf-B5577-Modulus-Tri-Strike/dp/B01B4NMH48:265)
+  S (https://www.amazon.com/Nerf-B5577-Modulus-Tri-Strike/dp/B01B4NMH48:267)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:21:03.896Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:21:03.896Z] Session [78b33510-c93c-11e6-b49d-097b54259f42] - page.onError - stack:
+  logError (https://www.amazon.com/Nerf-B5577-Modulus-Tri-Strike/dp/B01B4NMH48:269)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:21:23.972Z] RouterReqHand - _handle.error - {"name":"Invalid Command Method","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Connection\":\"close\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:51644\",\"User-Agent\":\"Python-urllib/3.4\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/rect\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"rect\",\"directory\":\"/\",\"path\":\"/rect\",\"relative\":\"/rect\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/rect\",\"queryKey\":{},\"chunks\":[\"rect\"]},\"urlOriginal\":\"/session/78b33510-c93c-11e6-b49d-097b54259f42/element/:wdc:1482517269295/rect\"}","line":123,"sourceURL":"phantomjs://code/webelement_request_handler.js","stack":"_handle@phantomjs://code/webelement_request_handler.js:123:66\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/session_request_handler.js:120:42\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:21:40.729Z] RouterReqHand - _handle.error - {"name":"Invalid Command Method","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Connection\":\"close\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:51644\",\"User-Agent\":\"Python-urllib/3.4\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/rect\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"rect\",\"directory\":\"/\",\"path\":\"/rect\",\"relative\":\"/rect\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/rect\",\"queryKey\":{},\"chunks\":[\"rect\"]},\"urlOriginal\":\"/session/78b33510-c93c-11e6-b49d-097b54259f42/element/:wdc:1482517269294/rect\"}","line":123,"sourceURL":"phantomjs://code/webelement_request_handler.js","stack":"_handle@phantomjs://code/webelement_request_handler.js:123:66\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/session_request_handler.js:120:42\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-23T18:22:04.576Z] RouterReqHand - _handle.error - {"name":"Invalid Command Method","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Connection\":\"close\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:51644\",\"User-Agent\":\"Python-urllib/3.4\"},\"httpVersion\":\"1.1\",\"method\":\"GET\",\"url\":\"/rect\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"rect\",\"directory\":\"/\",\"path\":\"/rect\",\"relative\":\"/rect\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/rect\",\"queryKey\":{},\"chunks\":[\"rect\"]},\"urlOriginal\":\"/session/78b33510-c93c-11e6-b49d-097b54259f42/element/:wdc:1482517269295/rect\"}","line":123,"sourceURL":"phantomjs://code/webelement_request_handler.js","stack":"_handle@phantomjs://code/webelement_request_handler.js:123:66\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/session_request_handler.js:120:42\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-12-23T18:25:20.651Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
